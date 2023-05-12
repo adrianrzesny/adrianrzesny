@@ -26,6 +26,7 @@ I am an "optimizer" type, I like to challenge myself and strive for previously s
 - 🗄 Backend:&nbsp;
 <img src="images\csh.png" alt="C#">&nbsp;
 <img src="images\net.png" alt=".NET">&nbsp;
+<img src="images\sql.png" alt="SQL">&nbsp;
 <img src="images\cpp.png" alt="C++">&nbsp;
 <img src="images\python.png" alt="Python">&nbsp;
 <img src="images\javascript.png" alt="JAVASCRIPT">&nbsp;
